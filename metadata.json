@@ -1,0 +1,6 @@
+{
+  "name": "Surveillance Ferroviaire · Cas C",
+  "description": "Détection des micro-fissures et défauts géométriques des voies ferrées via capteurs, Edge AI, Cloud et IoT. Cas de référence SNCF Réseau vs Network Rail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
